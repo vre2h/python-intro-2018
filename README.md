@@ -14,3 +14,5 @@ by George Kouryachi
   [Solutions](/hwk-02)
 - hwk-03: [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/04_CircleSequence) |
   [Solutions](/hwk-03)
+- hwk-04: [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/05_Lists) |
+  [Solutions](/hwk-04)
