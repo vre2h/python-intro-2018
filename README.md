@@ -1,6 +1,6 @@
 # Python Introduction Course
 
-_by [George Kouryachi](uneex.ru)_
+_by [George Kouryachi](https://uneex.ru/LecturesCMC)_
 
 ## Lectures
 
