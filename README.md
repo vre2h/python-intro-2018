@@ -24,3 +24,6 @@ _by [George Kouryachi](https://uneex.ru/LecturesCMC)_
 - Lists:
   - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/05_Lists)
   - [Solutions](/hwk-05)
+- Dictionaries and Sets:
+  - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/07_SetsDicts)
+  - [Solutions](/hwk-06)
