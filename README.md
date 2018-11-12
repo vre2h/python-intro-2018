@@ -27,3 +27,6 @@ _by [George Kouryachi](https://uneex.ru/LecturesCMC)_
 - Dictionaries and Sets:
   - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/07_SetsDicts)
   - [Solutions](/hwk-06)
+- NLTK
+  - [Tasks](/text-analyzer/README.md)
+  - [Solutions](/text-analyzer)
