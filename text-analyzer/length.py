@@ -6,6 +6,7 @@ from nltk.tokenize import sent_tokenize
 
 text = open('input.txt', 'r').read()
 stopwords = open('stop.txt', 'r').read()
+output = open('output-v2.txt', 'w')
 
 # deleting punctuation
 tokenizer = RegexpTokenizer(r'\w+')
@@ -39,11 +40,11 @@ resByWords = sorted(collections.Counter(wordLenCnt).most_common(),
                     key=lambda l: l[1], reverse=True)
 
 # computing average word and sentences length
-average = allWordLen / len(words)
-averageSent = allSentLen / len(sentences)
+average = allWordLen // len(words)
+averageSent = allSentLen // len(sentences)
 
 # printing result
-print(f'Average word length - {average}')
-print(f'Average sentences length - {averageSent}')
-print(f'Word with max symbols - {resByWords[:10]}')
-print(f'Word with min symbols - {resByWords[-10:]}')
+output.write(f'Average word length is {average} symbols\n')
+output.write(f'Average sentence length is {averageSent} symbols\n')
+output.write(f'Longest words: {resByWords[:10]}\n')
+output.write(f'Shortest words: {resByWords[-10:]}\n')
