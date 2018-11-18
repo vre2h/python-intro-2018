@@ -27,6 +27,9 @@ _by [George Kouryachi](https://uneex.ru/LecturesCMC)_
 - Dictionaries and Sets:
   - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/07_SetsDicts)
   - [Solutions](/hwk-06)
+- Decorators and Parametric Iterators:
+  - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/08_DictsIters)
+  - [Solutions](/hwk-07)
 - NLTK
   - [Tasks](/text-analyzer/README.md)
   - [Solutions](/text-analyzer)
