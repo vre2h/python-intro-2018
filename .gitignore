@@ -3,4 +3,4 @@
 /text-analyzer/bin
 /text-analyzer/lib64
 /text-analyzer/*.cfg
-
+/utils/
