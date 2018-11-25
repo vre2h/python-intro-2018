@@ -30,6 +30,9 @@ _by [George Kouryachi](https://uneex.ru/LecturesCMC)_
 - Decorators and Parametric Iterators:
   - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/08_DictsIters)
   - [Solutions](/hwk-07)
+- Object model in Python:
+  - [Tasks](http://uneex.ru/LecturesCMC/PythonIntro2018/09_ObjectModel)
+  - [Solutions](/hwk-08)
 - NLTK
   - [Tasks](/text-analyzer/README.md)
   - [Solutions](/text-analyzer)
